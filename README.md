@@ -1,4 +1,4 @@
-#**Automated Desktop Cleaner**
+**Automated Desktop Cleaner**
 
 ##Overview
 ###The Automated Desktop Cleaner is a Python script designed to help you organize and clean up your cluttered desktop automatically. It moves files from your desktop to predefined folders based on their file types, ensuring that your desktop remains tidy and organized.
